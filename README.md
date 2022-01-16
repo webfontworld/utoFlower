@@ -1,4 +1,4 @@
-# 플로워(UtoFlower)
+# 플라워(UtoFlower)
 
 <a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/utoFlower/UtoFlower.jpg" alt="UtoFlower" style="width:300px">
